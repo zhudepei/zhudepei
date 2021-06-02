@@ -8,10 +8,10 @@
 
 ## Hey 👋, I'm Ethan!
 
-I'm an algorithm engineer from China, who is interested in Natural Language Processing, Deep Learning, Information Retrieval, and Full-stack Development.
+I'm an backend developer from China, who is interested in backpacking, taking photograph and Full-stack Development.
 <!-- - 🔭 I’m currently working on  -->
-<!-- - 🖥 Algorithm engineer -->
-<!-- - 📫 How to reach me **ethanyt at qq.com** -->
+<!-- - 🖥 backend developer -->
+<!-- - 📫 How to reach me **hyekyoz at outlook.com** -->
 
 
 

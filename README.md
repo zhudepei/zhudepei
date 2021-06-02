@@ -6,7 +6,7 @@
 
 <img align='right' width='51%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhudepei&hide=html,java,jupyter%20notebook,css&layout=compact&theme=chartreuse-dark&card_width=495">
 
-## Hey 👋, I'm Ethan!
+## Hey 👋, I'm Zhudepei!
 
 I'm an backend developer from China, who is interested in backpacking, taking photograph and Full-stack Development.
 <!-- - 🔭 I’m currently working on  -->

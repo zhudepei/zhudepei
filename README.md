@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/zhudepei/zhudepei/master/name.svg" alt="Ethan-yt" />
+  <img src="https://raw.githubusercontent.com/zhudepei/zhudepei/master/name.svg" alt="Zhu Depei" />
 </h1>
 
 <img align="right" width="51%" src="https://github-readme-stats.vercel.app/api?username=zhudepei&theme=graywhite&show_icons=true">
